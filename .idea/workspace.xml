@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81113cd5-be63-454f-a9b6-255fb3f2eb2e" name="Default Changelist" comment="" />
+    <list default="true" id="81113cd5-be63-454f-a9b6-255fb3f2eb2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Admin/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Admin/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Front/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Front/IndexController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/admin/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/admin/index.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +16,9 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -114,6 +123,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iJgFSgsekXw2Ip4yxb77BH3bsK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -154,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601631004888</updated>
-      <workItem from="1601631005944" duration="7983000" />
+      <workItem from="1601631005944" duration="9205000" />
     </task>
     <servers />
   </component>
@@ -170,14 +180,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="424" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601632285495" />
-    <state x="384" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601641929551">
+    <state x="384" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601646456757">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1601641929551" />
+    <state x="384" y="3" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1601646456757" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601645197049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601645197049" />
+    <state x="560" y="261" key="Github.ShareDialog" timestamp="1601645722281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="560" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1601645722281" />
+    <state x="485" y="68" key="Github.UntrackedFilesDialog" timestamp="1601645747483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="485" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601645747483" />
     <state x="518" y="287" key="NewPhpFileDialog" timestamp="1601644706637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

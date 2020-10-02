@@ -5,7 +5,7 @@ namespace App\Controller\Front;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\Routing\Annotation\Route;
 
-class HomeController extends AbstractController
+class IndexController extends AbstractController
 {
     /**
      * @Route("/admin", name="admin")
@@ -13,7 +13,7 @@ class HomeController extends AbstractController
 //    public function index()
 //    {
 //        return $this->render('admin/index.html.twig', [
-//            'controller_name' => 'HomeController',
+//            'controller_name' => 'AdminController',
 //        ]);
 //    }
 

@@ -1,9 +1,10 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+
+homepage:
+  path: /front
+  controller: App\Controller\Front\IndexController::index
 homeadmin:
-  path: /admin
-  controller: App\Controller\Admin\HomeController::index
-home:
-  path: /
-  controller: App\Controller\Front\HomeController::index
+  path: /back
+  controller: App\Controller\Admin\AdminController::index
